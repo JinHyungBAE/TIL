@@ -11,7 +11,7 @@
 
 <br/>
 
-🤩 [hankyeolk](https://github.com/hankyeolk/TIL)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 많이 보면서 배워 따라하게 되었습니다. **감사드립니다.**
+🤩 [hankyeolk](https://github.com/hankyeolk/TIL)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 보면서 배워 따라하게 되었습니다. **두 분께 감사드립니다.**
 
 ---
 ## Javascript
