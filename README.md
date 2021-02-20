@@ -14,23 +14,23 @@
 🤩 [hankyeolk](https://github.com/hankyeolk/TIL)님, [Integerous](https://github.com/Integerous/TIL)님의 TIL을 보면서 배워 따라하게 되었습니다. **두 분께 감사드립니다.**
 
 ---
-## Javascript
+### Javascript
 
-## CSS
+### CSS
 
-## Algorithm
+### Algorithm
 
-## Node.js
+### Node.js
 
-## Database
+### Database
 
-## Git
+### Git
 
-## Tools
+### Tools
 
-## Projects
+### Projects
 
-## Books
+### Books
 
-## ETC
+### ETC
 
