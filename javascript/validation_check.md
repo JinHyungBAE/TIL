@@ -12,6 +12,7 @@ author_profile: true
 sidebar_main: true
 use_math: true
 header:
+cover: assets/gif/validationCheckj(simple).gif
 
 # 목차
 toc: true  
@@ -26,7 +27,7 @@ toc_sticky: true
 
 
 
-![validationCheckj(simple)](/Users/mac/Downloads/validationCheckj(simple).gif)
+![나의 간단한 유효성 검사 결과물](../assets/gif/validationCheckj(simple).gif)
 
 ​                                   간단한 id, password, email 유효성 검사 결과물
 
