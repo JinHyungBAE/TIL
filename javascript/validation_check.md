@@ -27,7 +27,7 @@ toc_sticky: true
 
 
 
-![나의 간단한 유효성 검사 결과물](../assets/gif/validationCheckj(simple).gif)
+![나의 간단한 유효성 검사 결과물](assets/gif/validationCheckj(simple).gif)
 
 ​                                   간단한 id, password, email 유효성 검사 결과물
 
