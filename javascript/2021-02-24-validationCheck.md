@@ -23,7 +23,7 @@ toc_sticky: true
 
 
 
-![유효성 검사 결과물](/Users/mac/Desktop/blog/JinHyungBAE.github.io/assets/gif/validationCheckj(simple).gif)                 
+![유효성 검사 결과물](/Users/mac/Desktop/blog/JinHyungBAE.github.io/assets/gif/validationCheckj(simple).gif)           
 
 ​                          간단한 id, password, email 유효성 검사 결과물
 
