@@ -1,5 +1,4 @@
 ---
-d---
 title: "validation check(유효성 검사)"
 category:
   - blog
@@ -17,8 +16,6 @@ header:
 # 목차
 toc: true  
 toc_sticky: true 
-​---
-
 ---
 
 ## validation check(유효성 검사)
