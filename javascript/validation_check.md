@@ -2,7 +2,6 @@
 title: "validation check(유효성 검사)"
 category:
   - blog
-
 tag:
   - jekyll
   - TIL
@@ -12,8 +11,6 @@ author_profile: true
 sidebar_main: true
 use_math: true
 header:
-
-# 목차
 toc: true  
 toc_sticky: true 
 ---
