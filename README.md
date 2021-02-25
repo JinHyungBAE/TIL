@@ -15,7 +15,7 @@
 
 ---
 ### Javascript
-* [valiation check(유효성 검사)](https://github.com/JinHyungBAE/TIL/blob/main/javascript/validation_check.md)
+* [valiation check(유효성 검사)](https://github.com/JinHyungBAE/TIL/blob/main/javascript/2021-02-23-validationCheck.md)
 
 ### CSS
 
