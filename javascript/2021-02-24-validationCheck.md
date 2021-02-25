@@ -157,7 +157,7 @@ function setAsValid(selector) {
 
 css파일을 살펴보면 class명이 invalid가 되면 background와 text color가 붉은 색 계통으로 변하게 설정해두었다. 
 
-```css 
+```html
 :root {
     --invalid-text-color: rgb(177, 59, 69);
     --invalid-border-color: rgba(177, 59, 69, .2);
